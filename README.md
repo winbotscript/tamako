@@ -4,7 +4,12 @@
 # FroztiX
 </br>
 
-## How to Install(DEFAULT or BASIC USAGE)
+## How to Install
+	* apt update && apt upgrade
+	* pkg install nodejs
+	* pkg install git
+	* pkg install php
+	* pkg install mechanize
 	* git clone https://github.com/froztix/tamako
 	* cd tamako
 	* unzip node_modules.zip
@@ -39,10 +44,4 @@
 	* cek				"CHECK USERNAME IG TARGET"		(WORK & TESTED)
 
 
-<br/>
-
-## Warning
-	"Use tools at your own risk!!!"
-	"Use this Tool for personal use, not for sale!!!"
-	"Make sure your account is not in private to use this tool!!!"
 <br/>

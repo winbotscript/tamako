@@ -5,8 +5,8 @@
 </br>
 
 ## How to Install(DEFAULT or BASIC USAGE)
-	* git clone https://github.com/froztix/igbotfx
-	* cd igbotfx
+	* git clone https://github.com/froztix/tamako
+	* cd tamako
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
 	* npm audit fix
